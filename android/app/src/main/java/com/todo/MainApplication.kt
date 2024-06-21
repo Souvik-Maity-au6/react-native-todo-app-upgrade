@@ -1,4 +1,4 @@
-package com.todo
+package dev.scopex.todo
 
 import android.app.Application
 import com.facebook.react.PackageList
